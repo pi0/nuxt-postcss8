@@ -16,20 +16,20 @@
     "test": "yarn lint"
   },
   "dependencies": {
-    "autoprefixer": "^10.2.5",
-    "css-loader": "^5.1.3",
+    "autoprefixer": "^10.2.6",
+    "css-loader": "^5.2.6",
     "defu": "^3.2.2",
-    "postcss": "^8.2.8",
-    "postcss-import": "^14.0.0",
+    "postcss": "^8.3.4",
+    "postcss-import": "^14.0.2",
     "postcss-loader": "^4.2.0",
-    "postcss-url": "^10.1.1",
-    "semver": "^7.3.4"
+    "postcss-url": "^10.1.3",
+    "semver": "^7.3.5"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^5.0.0",
-    "eslint": "^7.22.0",
-    "nuxt": "^2.15.3",
-    "siroc": "^0.8.0",
-    "standard-version": "^9.1.1"
+    "eslint": "^7.28.0",
+    "nuxt": "^2.15.7",
+    "siroc": "^0.11.0",
+    "standard-version": "^9.3.0"
   }
 }
